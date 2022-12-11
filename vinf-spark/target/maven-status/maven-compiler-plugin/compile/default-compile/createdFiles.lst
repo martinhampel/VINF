@@ -1,0 +1,3 @@
+org\fiit\lucene\Indexer.class
+org\fiit\parser\Spark.class
+org\fiit\Main.class
